@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactHostingRepo/static/css/main.3bdd99e4.css",
+    "main.js": "/ReactHostingRepo/static/js/main.60b51a68.js",
+    "static/js/787.b18cc042.chunk.js": "/ReactHostingRepo/static/js/787.b18cc042.chunk.js",
+    "index.html": "/ReactHostingRepo/index.html",
+    "main.3bdd99e4.css.map": "/ReactHostingRepo/static/css/main.3bdd99e4.css.map",
+    "main.60b51a68.js.map": "/ReactHostingRepo/static/js/main.60b51a68.js.map",
+    "787.b18cc042.chunk.js.map": "/ReactHostingRepo/static/js/787.b18cc042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bdd99e4.css",
+    "static/js/main.60b51a68.js"
+  ]
+}
